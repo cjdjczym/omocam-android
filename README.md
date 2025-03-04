@@ -13,5 +13,5 @@ OMO复古相机是一款结合复古风格与现代技术的摄影应用，以�
 ![Image](https://github.com/user-attachments/assets/c043740a-ebd0-490c-9ab4-4a0c10906c3f)
 
 ***
-#### 导入图片
+#### 为导入图片添加滤镜
 ![Image](https://github.com/user-attachments/assets/17dd8938-1139-4729-ae99-5139677b8554)
